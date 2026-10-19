@@ -15,6 +15,7 @@ public class CA1Client {
 
     public static void main(String[] args) {
        
+        /*CONNESSIONE SERVER E START CLIENT
         try{
             
             while(true){
@@ -41,5 +42,6 @@ public class CA1Client {
         catch(Exception e){
             System.out.println(e);
         }
+*/
     }
 }
